@@ -1,6 +1,6 @@
 {
     "name": "pluginroast",
-    "description": "A Node-RED Project",
+    "description": "Projeto em NODE-RED",
     "version": "0.0.1",
     "dependencies": {
         "node-red-dashboard": "2.15.5"
